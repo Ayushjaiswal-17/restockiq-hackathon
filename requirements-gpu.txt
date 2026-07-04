@@ -1,0 +1,5 @@
+cudf-cu12
+cuml-cu12
+cugraph-cu12
+cupy-cuda12x
+--extra-index-url=https://pypi.nvidia.com

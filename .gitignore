@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.data/
+data/sample/
+data/output/
+*.parquet
+*.log
