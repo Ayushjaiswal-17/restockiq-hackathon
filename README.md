@@ -166,7 +166,7 @@ streamlit run dashboard/streamlit_app.py
 
 ## Live Links
 
-- **Deployed dashboard:** [add your Streamlit Cloud link]
+- **Deployed dashboard:** (https://restockiq-hackathon-3wavgvpbxksh6g24jfi5gf.streamlit.app/)
 - **Demo video:** [add your video link]
 - **Submission deck:** `RestockIQ_Submission.pptx` (in repo root)
 
@@ -181,6 +181,3 @@ streamlit run dashboard/streamlit_app.py
 
 ---
 
-## Team
-
-[Add your name(s) here]
