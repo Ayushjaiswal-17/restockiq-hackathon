@@ -1,4 +1,4 @@
-# 🚨 RestockIQ — Autonomous Inventory Command Center
+# RestockIQ — Autonomous Inventory Command Center
 
 A GPU-accelerated data intelligence tool that helps retail store managers prevent stockouts before they happen.
 
@@ -166,9 +166,8 @@ streamlit run dashboard/streamlit_app.py
 
 ## Live Links
 
-- **Deployed dashboard:** (https://restockiq-hackathon-3wavgvpbxksh6g24jfi5gf.streamlit.app/)
-- **Demo video:** [add your video link]
-- **Submission deck:** `RestockIQ_Submission.pptx` (in repo root)
+- **Deployed dashboard:** https://restockiq-hackathon-3wavgvpbxksh6g24jfi5gf.streamlit.app/
+- **Demo video:** https://drive.google.com/file/d/10vyVUM1iJ9FN-TrcwDUoYikNShiPs3Ne/view?usp=sharing        
 
 ---
 
