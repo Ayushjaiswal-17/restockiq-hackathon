@@ -8,6 +8,8 @@ import plotly.express as px
 # ---------------------------------------------------------------------------
 DATA_DIR = "data/sample"
 RISK_PATH = os.path.join(DATA_DIR, "risk_scores.parquet")
+if not os.path.exists(RISK_PATH):
+    RISK_PATH = os.path.join(DATA_DIR, "risk_scores_demo.parquet")
 BENCHMARK_PATH = os.path.join(DATA_DIR, "benchmark_log.csv")
 
 st.set_page_config(page_title="RestockIQ Command Center", layout="wide")

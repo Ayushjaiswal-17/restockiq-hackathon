@@ -1,0 +1,14 @@
+Today's inventory health shows several SKUs at immediate stockout risk across multiple stores.
+
+The highest-risk items are:
+Store 7: sku_55 (0.6 days of stock)
+Store 47: sku_489 (0.7 days of stock)
+Store 0: sku_812 (0.7 days of stock)
+Store 40: sku_503 (0.8 days of stock), sku_1154 (0.8 days of stock)
+Store 33: sku_340 (0.8 days of stock)
+Store 15: sku_385 (0.8 days of stock)
+Store 46: sku_1073 (0.9 days of stock)
+Store 31: sku_186 (0.9 days of stock)
+Store 22: sku_983 (0.9 days of stock)
+
+Expedite replenishment for all listed SKUs immediately to prevent imminent stockouts.

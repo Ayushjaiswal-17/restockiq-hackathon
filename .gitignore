@@ -5,7 +5,15 @@ __pycache__/
 *.pyd
 .env
 .data/
-data/sample/
 data/output/
-*.parquet
 *.log
+
+data/sample/pos_transactions.csv
+data/sample/pos_clean.parquet
+data/sample/risk_scores.parquet
+data/sample/copurchase_edges.csv
+
+!data/sample/pos_transactions_demo.csv
+!data/sample/risk_scores_demo.parquet
+!data/sample/benchmark_log.csv
+!data/sample/latest_briefing.txt
